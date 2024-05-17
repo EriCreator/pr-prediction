@@ -29,6 +29,18 @@ To set up the project and install the required dependencies, follow these instru
   ```
 
 4. **Install the required dependencies:**
+
    ```bash
    pip install -r requirements.txt
    ```
+
+5. **Unzip the dataset file:**
+
+- On Windows:
+  ```bash
+  tar -xf dataset.zip
+  ```
+- On macOS/Linux
+  ```bash
+  unzip dataset.zip
+  ```
