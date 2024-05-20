@@ -4,6 +4,8 @@
 
 To set up the project and install the required dependencies, follow these instructions:
 
+##### Make sure that git-lfs is installed before cloning the repository.
+
 1. **Clone the repository:**
 
    ```bash
