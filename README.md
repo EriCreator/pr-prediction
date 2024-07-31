@@ -35,3 +35,9 @@ To set up the project and install the required dependencies, follow these instru
    ```bash
    pip install -r requirements.txt
    ```
+
+5. **Unzip 'gerrit_eclipse.csv.gz':**
+
+   ```bash
+   gunzip gerrit_eclipse.csv.gz
+   ```
